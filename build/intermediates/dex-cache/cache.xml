@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\classes-f84e43538dc75bfc1c7ae08c1145e61bc73a4319.jar" />
+    </item>
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-830df927d4535fe1dce073e409f458b9483fcb9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-cbccd78e606c8d619a9460b580fd551543efd675.jar" />
+    </item>
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\classes-78f5e7c9c0d9381c458075d976d7822e174495f6.jar" />
+    </item>
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\classes-7d312a5eef0065f614936df503ba0c0ad681c6b1.jar" />
+    </item>
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\classes-a034f68fd78846cd6f8a980c1627e27eb9b096d9.jar" />
+    </item>
+    <item
+        jar="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\Android\Sample Projects\Android Studio Projects\IGlyphic\TicTacToe\app\build\intermediates\pre-dexed\debug\classes-62d7a43f9326d02f0d9a2770aa4114a7d5be722b.jar" />
+    </item>
+
+</items>

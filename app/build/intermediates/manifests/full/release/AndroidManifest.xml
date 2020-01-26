@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iglyphic.tictactoe"
+    android:versionCode="2"
+    android:versionName="1.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.iglyphic.tictactoe.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.iglyphic.tictactoe.TossActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.PlayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.ScoreActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.GameActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.BluetoothConnectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.TossBluetoothActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.iglyphic.tictactoe.GameBluetoothActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

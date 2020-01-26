@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tic_tac_toe_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="tic_tac_toe_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

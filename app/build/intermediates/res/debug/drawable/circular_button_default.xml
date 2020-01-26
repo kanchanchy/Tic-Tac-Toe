@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <corners android:radius="96dp" />
+    <solid android:color="#DDDDDD" />
+    <padding
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp" />
+    <stroke
+        android:width="3dp"
+        android:color="#FFFFFF" />
+
+    <size
+        android:width="128dp"
+        android:height="128dp" />
+
+</shape> <!-- From: file:/G:/Projects/Android%20Projects/Applications%20Lab/TicTacToe/app/src/main/res/drawable/circular_button_default.xml -->

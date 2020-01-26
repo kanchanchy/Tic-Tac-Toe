@@ -6,3 +6,5 @@ This game is available for download at [Google Playe Store](https://play.google.
 Some screenshots are listed below:
 
 ![game_over](https://github.com/kanchanchy/Tic-Tac-Toe/blob/master/screenshots/game_over.png)
+![win_page](https://github.com/kanchanchy/Tic-Tac-Toe/blob/master/screenshots/win_page.png)
+![options_page](https://github.com/kanchanchy/Tic-Tac-Toe/blob/master/screenshots/options_page.png)

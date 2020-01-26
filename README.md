@@ -4,4 +4,5 @@ It is an Android operating system based childhood game. It's mainly played betwe
 This game is available for download at [Google Playe Store](https://play.google.com/store/apps/details?id=com.applicationslab.tictactoe&hl=en).
 
 Some screenshots are listed below:
+
 ![game_over](https://github.com/kanchanchy/Tic-Tac-Toe/blob/master/screenshots/game_over.png)
